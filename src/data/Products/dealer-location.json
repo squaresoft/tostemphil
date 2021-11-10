@@ -1,0 +1,37 @@
+[
+	{
+		"id":1,
+		"name":"Wall Vision Corporation",
+		"address":"8487 Sandoval Ave, Pasig, Metro Manila",
+		"contact":"(02)73693141",
+		"image":"Dealers/Wall_Vision.jpg"
+
+	},
+	{
+		"id":2,
+		"name":"Wall Link Architectural Aluminum & Steel Requirement",
+		"address":"#88 Elizabeth Street, Balite, City of Malolos, Bulacan",
+		"contact":"0942 0996255/ 09278164595",
+		"image":"Dealers/WallLink.jpg"
+
+	},
+	{
+		"id":3,
+		"name":"Katigbak Entreprises Inc (KEI)",
+		"address":"GF, YCP Business Center, JP Laurel Highway, Balintawak, Lipa City, Batangas",
+		"contact":"(043) 756 1880/ (043) 756 6861",
+		"image":"Dealers/Katigbak.jpg"
+
+	},
+	{
+		"id":4,
+		"name":"CII AC Façade Phils. Inc.",
+		"address":"174 Cabral Industrial Park, Mulawinan Street, Lawang Bato, Valenzuela City",
+		"contact":"(02) 7904 0218",
+		"image":"Dealers/cii.jpg"
+
+	}
+
+
+
+]

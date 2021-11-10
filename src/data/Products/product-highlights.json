@@ -1,0 +1,32 @@
+[
+ {
+                        "id": 1,
+                        "title": "Virtual Showroom",
+                        "location":"Highlights/H2.JPG",
+                        "link":"/tour/vtour.html",
+                        "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/Grants Ventilation.jpg"
+                            },
+                            {
+                                "ImageID":2,
+                                "link":"Highlights/Ventilation Slot.jpg"
+                            }
+
+
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "title": "Giesta Simulation",
+                        "location":"Highlights/H1.jpg",
+                        "link":"https://tostemphil-simulation.netlify.app/",
+                        "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/PRE-ENGINEERED-SYTEM.jpg"
+                            }
+                        ]
+                    }
+]

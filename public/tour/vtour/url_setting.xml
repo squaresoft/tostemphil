@@ -1,0 +1,75 @@
+<krpano>
+<!--URL Setting for TOSTEM Thailand Website-->
+	
+<!--GIESTA Simulation-->
+<simulation url="https://tostemphil-simulation.netlify.app/"
+	/>
+	
+<!--GIESTA Series-->
+<GIESTA G01="https://www.tostemthailand.com/product/entrance-door-g01/"
+		G02="https://www.tostemthailand.com/product/entrance-door-g02/"
+		G03="https://www.tostemthailand.com/product/entrance-door-g03/"
+		G04="https://www.tostemthailand.com/product/entrance-door-g04/"
+		D01="https://www.tostemthailand.com/product/entrance-door-d01/"
+		D02="https://www.tostemthailand.com/product/entrance-door-d02/"
+		D03="https://www.tostemthailand.com/product/entrance-door-d03/"
+		P01="https://www.tostemthailand.com/product/entrance-door-p01/"
+		P02="https://www.tostemthailand.com/product/entrance-door-p02/"
+		P03="https://www.tostemthailand.com/product/entrance-door-p03/"
+	 />
+	
+<!--GRANTS Series-->
+<Grants Sliding_Door="https://www.tostemthailand.com/product/sliding-door-4-panels-on-2-tracks/"
+		Mixed_Window="https://www.tostemthailand.com/product_category/grants-high-rise/"
+		Out_Swing_Door="https://www.tostemthailand.com/product/out-swing-door-single/"
+	 />
+	
+<!--WE PLUS Series-->
+<WePlus Sliding_Door="https://www.tostemthailand.com/product/2-panels-sliding-door-2/"
+		Mixed_Window="https://www.tostemthailand.com/product_category/we-plus-series/"
+		Out_Swing_Door="https://www.tostemthailand.com/product/single-swing-out-door-2/"
+	 />
+	
+<!--P7 Series-->
+<P7 Sliding_Door="https://www.tostemthailand.com/product/single-out-swing-door-2-2-2-2-2/"
+	Mixed_Window="https://www.tostemthailand.com/product_category/p7/"
+	T_Vent=""
+	 />
+	
+<!--WE70 Series-->
+<W70 En_Sliding_Door="https://www.tostemthailand.com/product/sliding-door-2-panels-on-2-tracks-2-5/"
+	 Folding_Door="https://www.tostemthailand.com/product/sliding-door-2-panels-on-2-tracks-2-3-2-2-2-2-2-2-2-2-2-2/"
+	 Mixed_Window="https://www.tostemthailand.com/product_category/we70/"
+	 Sliding_Window="https://www.tostemthailand.com/product/fixed-window-3-2-2/"
+	 Fixed_Window="https://www.tostemthailand.com/product/fixed-window-3-2/"
+	 In_Swing_Door="https://www.tostemthailand.com/product/sliding-door-2-panels-on-2-tracks-2-3-2-2-2-2-2-2-3/"
+	 Vent_Door=""
+	 T_Vent=""
+	 />
+	
+<!--WE40 Series-->
+<W40 Sliding_Window="https://www.tostemthailand.com/product/2-panels-single-sliding-window-6/"
+	 Awning_Window="https://www.tostemthailand.com/product/awning-window-2/"
+	 />
+	
+<!--Interior Series-->
+<INT Par_Door="https://www.tostemthailand.com/product/partition-door-3-panels-on-3-tracks/"
+	 Hang_Door="https://www.tostemthailand.com/product/3317-2/"
+	 />
+	
+<!--Exterior Series-->
+<EXT Swing_Gate="https://www.tostemthailand.com/product/swing-gate/"
+	 Folding_Gate="https://www.tostemthailand.com/product/folding-gate/"
+	 Double_Sl_Gate="https://www.tostemthailand.com/product/double-sliding-gate/"
+	 Fence="https://www.tostemthailand.com/product/double-swing-gate-2-3/"
+	 />
+	
+<!--Accessory-->
+<Acc Label1=""
+	 Panel1=""
+	 Label2=""
+	 Panel2=""
+	 Label3=""
+	 Panel3=""
+	 />
+</krpano>

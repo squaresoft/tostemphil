@@ -1,0 +1,653 @@
+[
+	{
+	"id":1,
+	"image":"Shop-Tostem/WindowsAndDoors.jpg",
+	"imagePage":"Shop-Tostem/ProductsPage/WindowsandDoors.jpg",
+	"productName":"Windows and Doors",
+	"productDescription":"All products of TOSTEM are developed and designed, manufactured and assembled under an integrated production process with strict TOSTEM quality control. The greatest benefit of TOSTEM’S PRE-ENGINEERED SYSTEM is the ability to build windows with consistent quality. No special tools will be needed for ASSEMBLY and INSTALLATION. Anyone can assemble the product with the same level of quality with a screw driver. Lixil is the only manufacturer that uses state-of-the-art technology TEXGUARD in aluminum surface treatment. It’s Lixil’s original technology that provides an outstanding weatherproof coating on aluminum extrusions using electrodeposition process. It offers greater color and gloss retention, stronger surface integrity which protects against scratches and corrosion and ease of cleaning due to its anti-dust technology.",
+	"productList":[
+		{
+			"detailID":1,
+			"isPdf":false,
+			"isImage":false,
+			"tags":"window,windows,doors,door,grants",
+			"PdfFile":"/GRANTS.pdf",
+			"detailName":"Grants",
+			"video":"https://www.dropbox.com/s/t0rh42iv789s3nb/GRANTS.mp4",
+			"img":"/Shop-Tostem/Grants/Feature_1.jpg",
+				"header":"/Tostem/Grants.jpg",
+			"detailDescription":"GRANTS is TOSTEM’s flagship series. Its innovative design results in a larger surface area of glass for panoramic views. This takes the standard of aluminum windows and doors to another level.",
+			"detailSpecification":"Frame Depth:101.6 mm, 120 mm (2 tracks sliding), 178 mm (3 tracks sliding)|Height of sill: 50 mm|Glass thickness: Up to 31.5 mm",
+			"performanceImg":"/Shop-Tostem/Grants/Performance.png",
+			"perfNotice":"Wind Performance can be requested for calculation based on NSCP|Sound performance test has been done in JIS standard controlled environment. Performance will vary by room condition.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Grants/01_GRANTS.jpg",
+					"title":"Double barrier drainage system"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Grants/02_GRANTS.jpg",
+					"title":"Open"
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/Grants/03_GRANTS.jpg",
+					"title":"Close"
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/Grants/04_GRANTS.jpg",
+					"title":"Conceal panel design"
+				}
+			,
+				{
+					"id":5,
+					"img":"/Shop-Tostem/Grants/05_GRANTS.jpg",
+					"title":"'L-Fit' design hardware, concealed hinges"
+				}]
+		},
+		{
+			"detailID":2,
+			"detailName":"We Plus",
+				"header":"/Tostem/WePlus.jpg",
+				"tags":"window,windows,doors,door,We,We plus",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/WE-PLUS.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/WP/Feature_1.jpg",
+			"detailDescription":"WE PLUS has passed rigorous tests based on ASTM, and TOSTEM in-house’s toughest standards. Available in various designs with a maximum height of 3 meters to satisfy various designers’ needs in high-rise market. ",
+			"detailSpecification":"Frame Depth:72 mm|Height of sill: 35mm; 50 mm(all sliding)|Glass thickness: Up to 8 mm",
+			"performanceImg":"/Shop-Tostem/WP/Performance.png",
+			"perfNotice":"Wind Performance can be requested for calculation based on NSCP|Sound performance test has been done in JIS standard controlled environment. Performance will vary by room condition.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/WP/WP1.jpg",
+					"title":"Sliding door meeting stiles are designed to withstand high wind load lock "
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/WP/WP2.jpg",
+					"title":"Easily adjustable outer-panel lock "
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/WP/WP4.jpg",
+					"title":"High quality security lock "
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/WP/WP3.jpg",
+					"title":"We Plus"
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/WP/WP5.jpg",
+					"title":"We Plus"
+				},
+				{
+					"id":6,
+					"img":"/Shop-Tostem/WP/WP7.jpg",
+					"title":"Limit arm (Window Restrictor)"
+				}]
+		},
+		{
+			"detailID":3,
+			"detailName":"P7",
+				"header":"/Tostem/P7.jpg",
+				"tags":"window,windows,doors,door,P,P7",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/P7.pdf",
+			"video":"https://www.dropbox.com/s/ejtu06wvlv9bfsb/P7.mp4",
+			"img":"/Shop-Tostem/P7/Feature_1.jpg",
+			"detailDescription":"P7 series is a luxury residential series, uses only the most premium materials and features for specialty and high-end residential properties. Suitable for low rise luxury projects",
+			"detailSpecification":"Frame Depth:101.6 mm|Height of sill: 50 mm|Glass thickness: Up to 8 mm",
+			"performanceImg":"/Shop-Tostem/P7/Performance.png",
+			"perfNotice":"Wind Performance can be requested for calculation based on NSCP|Sound performance test has been done in JIS standard controlled environment. Performance will vary by room condition.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/P7/01_P7.jpg",
+					"title":"P7"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/P7/02_P7.jpg",
+					"title":"Vertical panel frame that enables easy opening and closing "
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/P7/03_P7.jpg",
+					"title":"High quality security lock "
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/P7/04_P7.jpg",
+					"title":"High security sub-lock "
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/P7/05_P7.jpg",
+					"title":"Easily adjustable outer-panel  lock "
+				},
+				{
+					"id":6,
+					"img":"/Shop-Tostem/P7/06_P7.jpg",
+					"title":"Watertight sill with drainage devicesprevents rainwater "
+				}]
+		},
+		{
+			"detailID":4,
+			"detailName":"WE 70",
+				"header":"/Tostem/We70.jpg",
+				"tags":"window,windows,doors,door,We, We 70, 70",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/WE-70.pdf",
+			"video":"https://www.youtube.com/watch?v=H53R2Pd27XE",
+			"img":"/Shop-Tostem/WE7040/Feature_1.jpg",
+			"detailDescription":"Brings legendary TOSTEM quality to everyday life. Built for the mass market yet maintaining strict quality standards. The WE 70 series is priced within everyone’s reach.",
+			"detailSpecification":"Frame Depth:101.6 mm|Height of sill: 50 mm|Glass thickness: Up to 8 mm",
+			"performanceImg":"/Shop-Tostem/WE7040/Performance.png",
+			"perfNotice":"Wind Performance can be requested for calculation based on NSCP|Sound performance test has been done in JIS standard controlled environment. Performance will vary by room condition.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/WE7040/WE70_40_01.jpg",
+					"title":"Optional low sliding sill for room partition lock "
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/WE7040/WE70_40_02.jpg",
+					"title":"Watertight sill with drainage devices"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/WE7040/WE70_40_03.jpg",
+					"title":"Easy grip handles "
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/WE7040/WE70_40_04.jpg",
+					"title":"High quality security lock "
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/WE7040/WE70_40_05.jpg",
+					"title":"Easily adjustable outer-panel lock "
+				}]
+		}
+		,{
+			"detailID":5,
+			"detailName":"WE 40",
+				"header":"/Tostem/We40.jpg",
+				"tags":"window,windows,doors,door,We,We 40 ,We",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/WE-40.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/WE40/Feature_1.jpg",
+			"detailDescription":"WE 40 series, windows bring legendary TOSTEM quality to everyday life. Built for the mass market, they maintain strict quality standard.",
+			"detailSpecification":"Frame depth: 41 mm|Height of sill: 35 mm|Glass thickness: Up to 6 mm",
+			"performanceImg":"/Shop-Tostem/WE40/Performance.png",
+			"perfNotice":"Wind Performance can be requested for calculation based on NSCP|Sound performance test has been done in JIS standard controlled environment. Performance will vary by room condition.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/WE40/WE40-1.jpg",
+					"title":"WE 40"
+				}]
+		},
+		{
+			"detailID":6,
+			"detailName":"WE 70 Folding Doors",
+				"header":"/Tostem/FoldingDoor.jpg",
+				"tags":"window,windows,doors,door,folding,We 70, We , 70,fold",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/TOSTEM_FOLDING_DOOR.pdf",
+			"video":"https://www.dropbox.com/s/kvq0gxt2ayx6nej/WE%2070%20FOLDING%20DOOR.mp4",
+			"img":"/Shop-Tostem/FoldingDoor/Feature_1.jpg",
+			"detailDescription":"Smart design profiles and high-quality accessories create an elegant and stylish look while being easy to use. Suitable for both luxury residential and commercial project.",
+			"detailSpecification":"Frame depth: 72 mm|Height of sill: 35 mm|Glass thickness: Up to 8 mm",
+			"performanceImg":"",
+			"perfNotice":"",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/FoldingDoor/FD_01.jpg",
+					"title":"Folding Doors"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/FoldingDoor/FD_02.jpg",
+					"title":"Watertight sill with drainage system "
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/FoldingDoor/FD_03.jpg",
+					"title":"Flat sill is available and allows "
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/FoldingDoor/FD_04.jpg",
+					"title":"Smart designs prevent finger injuries "
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/FoldingDoor/FD_05.jpg",
+					"title":"Hinge-less Design "
+				}]
+		},
+		{
+			"detailID":7,
+			"detailName":"Interior Series",
+			"tags":"window,windows,doors,door,Interior,Series",
+			"isPdf":false,
+			"isImage":false,
+				"header":"/Tostem/Interior.jpg",
+			"PdfFile":"/INTERIOR-SERIES.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/Interior/Feature_1.jpg",
+			"detailDescription":"A luxurious and durable choice to divide interior living spaces. Available are the hanging type without floor track, sliding type with floor track, and swing type. Slim design aluminum profiles give a modern accent to your space.",
+			"detailSpecification":"Frame depth: 48 mm (Hanging Door - 1 Track),89 mm (Hanging Door - 2 Tracks),72 mm (Sliding Door), 104 mm (Sliding Door - 3 tracks)|Height of sill: NO sill(Hanging Door), 20 mm(Sliding Door)|Glass thickness: Up to 8 mm",
+			"performanceImg":"/Shop-Tostem/Interior/Performance.png",
+			"perfNotice":"",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Interior/Interior01.jpg",
+					"title":"Sill-less design provides safety and comfort for all"
+					
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Interior/Interior02.jpg",
+					"title":"Durable rollers for smooth operation "
+					
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/Interior/Interior03.jpg",
+					"title":"Soft close for extra safety "
+					
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/Interior/Interior04.jpg",
+					"title":"Pull standard, Handle & Lock-set (option) "
+					
+				},
+				{
+					"id":6,
+					"img":"/Shop-Tostem/Interior/Interior06.jpg",
+					"title":"Panel guide piece to prevent panel from shaking when sliding "
+					
+				}]
+		},
+		{
+			"detailID":8,
+			"detailName":"Glass Louver",
+				"header":"/Tostem/GlassLouver.jpg",
+				"tags":"window,windows,doors,door,Glass, Louver",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"",
+			"video":"",
+			"img":"/Shop-Tostem/GlassLouver/Feature_1.jpg",
+			"detailDescription":"Louver is a style of window that has been familiar with people for a long time. That is because of the many conveniences that are suitable for homes. Until now The louver has been developed to look beautiful, modern, suitable for more modern decoration. You can adjust the opening angle as you like.|The main function of the Louver is to circulate air from outside to inside. which is especially suitable for homes in tropical areas. Louvers can adjust the opening distance as desired for areas that are not very dangerous for intrusion such as floors under the ceiling or upstairs.",
+			"detailSpecification":"Frame Depth: 72 mm|Height of sill: 35 mm|Insect screen: Fixed screen (installed outside)",
+			"performanceImg":"/Shop-Tostem/GlassLouver/Perf_icon.png",
+			"perfNotice":"Louver frames are from TOSTEM | Parts of louver supplied by breezway",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/GlassLouver/Louver_1.jpg",
+					"title":"Glass Louver"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/GlassLouver/Louver_2.jpg",
+					"title":"Glass Louver"
+				},{
+					"id":3,
+					"img":"/Shop-Tostem/GlassLouver/Louver_1.jpg",
+					"title":"Glass Louver"
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/GlassLouver/Louver_2.jpg",
+					"title":"Glass Louver"
+				}]
+		}
+
+	]
+},
+{
+	"id":2,
+	"productName":"Entrance Door",
+	"image":"Shop-Tostem/EntranceDoors.jpg",
+	"imagePage":"Shop-Tostem/ProductsPage/EntranceDoors.jpg",
+	"productDescription":"GIESTA Entrance Doors are high quality wood pattern or metallic finish doors with wrapped steel panels. The insulating structure inside are designed and built to fight against extreme weather conditions and termites.",
+	"productList":[
+		{
+			"detailID":1,
+			"detailName":"Minimalistic",
+			"tags":"doors,door,Minimalistic,entrance door",
+			"isPdf":false,
+			"isImage":true,
+			"PdfFile":"/GIESTA-CATALOGUE.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/Giesta/Feature_1.jpg",
+			"detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Habitant morbi tristique senectus et netus et. Nisl rhoncus mattis rhoncus urna. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Fringilla urna porttitor rhoncus dolor purus non. Nec dui nunc mattis enim. Nibh sit amet commodo nulla facilisi nullam. Pretium quam vulputate dignissim suspendisse in. Justo laoreet sit amet cursus sit. Tempus urna et pharetra pharetra massa massa. Tempus iaculis urna id volutpat lacus laoreet. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida.",
+			"detailSpecification":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/D01-type rusk single (1).jpg"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Giesta/D02-type crea rusk single (1).jpg"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/D03-type crea rusk single (1).jpg"
+				}]
+		},
+		{
+			"detailID":2,
+			"detailName":"Modern",
+			"tags":"doors,door,Modern,entrance door",
+			"isPdf":false,
+			"isImage":true,
+			"PdfFile":"/GIESTA-CATALOGUE.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/Giesta/Feature_3.jpg",
+			"detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Habitant morbi tristique senectus et netus et. Nisl rhoncus mattis rhoncus urna. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Fringilla urna porttitor rhoncus dolor purus non. Nec dui nunc mattis enim. Nibh sit amet commodo nulla facilisi nullam. Pretium quam vulputate dignissim suspendisse in. Justo laoreet sit amet cursus sit. Tempus urna et pharetra pharetra massa massa. Tempus iaculis urna id volutpat lacus laoreet. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida.",
+			"detailSpecification":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/P01-type Turine pine single (1).jpg"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Giesta/P02-type turin pine single (1).jpg"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/P03-type turin pine single (1).jpg"
+				}]
+		},
+		{
+			"detailID":3,
+			"detailName":"With Glass",
+			"tags":"doors,door,With,Glass,entrance,entrance door",
+			"isPdf":false,
+			"isImage":true,
+			"PdfFile":"/GIESTA-CATALOGUE.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/Giesta/Feature_2.jpg",
+			"detailDescription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Purus viverra accumsan in nisl nisi scelerisque eu ultrices vitae. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Habitant morbi tristique senectus et netus et. Nisl rhoncus mattis rhoncus urna. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae nunc. Fringilla urna porttitor rhoncus dolor purus non. Nec dui nunc mattis enim. Nibh sit amet commodo nulla facilisi nullam. Pretium quam vulputate dignissim suspendisse in. Justo laoreet sit amet cursus sit. Tempus urna et pharetra pharetra massa massa. Tempus iaculis urna id volutpat lacus laoreet. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida.",
+			"detailSpecification":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/G01-type mocha single (1).jpg"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Giesta/G02-type mocha single (1).jpg"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/G03-type mocha single (1).jpg"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Giesta/G04-type mocha single (1).jpg"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/Giesta/G04-type teak single (1).jpg"
+				}]
+		}
+		
+
+
+	]
+},{
+	"id":3,
+	"productName":"Airflow Systems",
+	"image":"Shop-Tostem/Airflow.jpg",
+	"imagePage":"Shop-Tostem/ProductsPage/Airflow.jpg",
+	"productDescription":"With understanding of dweller’s need and comfort at heart, Tostem invented and developed window and door that create air circulation in the living space without relying on energy for better air quality, cooler and unpleasant odor free.|Another factor that Tostem keeps in mind during design process is safety and security as Tostem Airflow System is not only provide ventilation but also protect the living space from insect and designed to prevent burglary with secure anti theft lock but easy to operate with Tostem locking system that will improve the security standard whether you are home or not Our airflow system is in modern minimal style to fit in with any house design.|Tostem Airflow System includes GIESTA AirFlow steel wooden pattern door with integrated ventilation, AirFlow Door ventilation door with sliding window for multiple ventilation levels and AirFlow Slot slot for ventilation with flap in top notch design compatible with various Tostem window designs seamlessly.",
+	"productList":[
+		{
+			"detailID":1,
+			"detailName":"Giesta Airflow",
+			"tags":"Airflow,Window,Giesta,screen,door,doors,windows,system",
+			"header":"/Tostem/GiestaAirflow.jpg",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/Airflow.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/GiestaAirflow/Feature_1.jpg",
+			"footerImage":"/Shop-Tostem/GiestaAirflow/footer1.png",
+			"performanceImg":"/Shop-Tostem/GiestaAirflow/Performance.png",
+			"detailDescription":"A PERFECT SOLUTION for your own comfort with minimal design| High performance wooden pattern steel door Giesta AirFlow series with integrated airflow window and insect screen is perfect combination that keeps design and housing comfort at heart. Giesta AirFlow allows air inside your house to circulate in and out all day to cool the living space, reduce humidity,remove unpleasant odor for serene ambience.|Invented to truly create soothing ambience and adding comfort to your home. Let the wind flow into the living space by opening ventilation panel without worrying as the airflow panel is wide enough to let the air flow in easily and too small to be entered from.|Raising security to another level with multi lock function to lock and unlock by single lock at handle but securely lock 2 positions. Giesta AirFlow is Japanese Industrial Standards (JIS) certified and guaranteed with Japan’s KIDS Design Award for its user friendly and child safe ty design.",
+		"detailSpecification":"Frame Depth: 101.6 mm|Height of sill: 50 mm|Glass:Insulating glass thickness 18 mm (Cleared 3+Air gap 11+Patterned glass 4)| Door Frame Materials: Frame - Wood pattern resin sheet, wrapping on aluminium,Sill - Anodized aluminium|Door Panel Materials: EXTERNAL SHEET - (External) Resin sheet (Internal) Anti rust epoxy coating,INNER CORE - Polystyrene (EPS Foam",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/GiestaAirflow/Airflow_1.png",
+					"title":"Giesta Airflow "
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/GiestaAirflow/Airflow_2.png",
+					"title":"Simple open and close operation"
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/GiestaAirflow/Airflow_3.png",
+					"title":"Ease of cleaning"
+				}]
+		},
+		{
+			"detailID":2,
+			"detailName":"Airflow Door",
+			"header":"/Tostem/AirflowDoor.jpg",
+			"tags":"Airflow,screen,door,doors,system",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/Airflow.pdf",
+			"video":"https://www.youtube.com/watch?v=zr8wWfvkQxQ",
+			"img":"/Shop-Tostem/AirflowDoor/Feature_1.jpg",
+		"footerImage":"/Shop-Tostem/AirflowDoor/footer1.png",
+			"performanceImg":"/Shop-Tostem/AirflowDoor/Performance.png",
+			"detailDescription":"Designed to create air ventilation using immense vertical sliding panel that function smoothly even when the door is locked, sliding without effort and the panel can be in partial/fully open position.|• Fully closed position when ventilation is not required|• Fully opened position for maximum airflow in daytime or to ventilate cooking odor and smoke|• Partially opened and locked to prevent unlocking from outside while keeping the living space cool when no one home",
+			"detailSpecification":"Frame Depth: 72 mm|Height of sill: 35 mm |Glass: 6-8MM",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/AirflowDoor/AirFlow_1.png",
+					"title":"Close"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/AirflowDoor/AirFlow_2.png",
+					"title":"Open"
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/AirflowDoor/AirFlow_3.png",
+					"title":"Security Grills and Insect Screen"
+				}]
+		},
+		{
+			"detailID":3,
+			"detailName":"Airflow Slot",
+			"header":"/Tostem/Airflow.jpg",
+			"tags":"Airflow,screen,window,windows,system,slot",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/Airflow.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/AirflowSlot/Feature_1.jpg",
+				"footerImage":"/Shop-Tostem/AirflowSlot/footer1.png",
+			"performanceImg":"/Shop-Tostem/AirflowSlot/Performance.png",
+			"detailDescription":"Tostem AirFlow Slot designed to truly boost living space ventilation performance as when opened, fresh air can flow in and reduce room’s temperature in daytime and when closed, dust and odor from outside is blocked to enter the living space. Insect screen will prevent insect and small animal to enter. The screen is detachable for cleaning and comes with minimal modern design, easy to operate smoothly and designed to combine with any window design in WE Plus and WE 70 series.",
+			"detailSpecification":"Frame Depth: 72 mm (WE70-WE PLUS)/101.6mm (P7 SERIES)| Insect screen color: Black only|Size: Height - 111.5m, Width - 350 - 1500 mm",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/AirflowSlot/Airflow_1.png",
+					"title":"Airflow Slot"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/AirflowSlot/Airflow_2.png",
+					"title":"Airflow Slot"
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/AirflowSlot/Airflow_3.png",
+					"title":"Airflow Slot"
+				},
+				{
+					"id":4,
+					"img":"/Shop-Tostem/AirflowSlot/Airflow_4.png",
+					"title":"Airflow Slot"
+				}]
+		}
+	]
+},
+{
+	"id":4,
+	"productName":"Exterior",
+	"image":"Shop-Tostem/Exterior.jpg",
+	"imagePage":"Shop-Tostem/ProductsPage/Exterior.jpg",
+	"productDescription":"EXTERIOR PRODUCTS is a complete set of housing products which are designed and developed to compliment TOSTEM’s Aluminum doors and windows. We have GIESTA Entrance Doors, Ventilation Doors, Fence, Gate and Carports.",
+	"productList":[
+	{
+			"detailID":2,
+			"detailName":"Sliding Gate",
+			"tags":"Exterior,Gate,sliding",
+			"header":"/Tostem/fence-gate.jpg",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/FENCE-GATE.pdf",
+			"footerImage":"/Shop-Tostem/SlidingGate/footer1.png",
+			"performanceImg":"/Shop-Tostem/SlidingGate/Performance.png",
+			"video":"https://www.dropbox.com/s/p307wx9n6se5hpr/FENCE%20%26%20GATE.mp4",
+			"img":"/Shop-Tostem/SlidingGate/Feature_1.jpg",
+			"detailDescription":"FENCE AND GATE has square pipe design which hinders sight from a certain angle and uses stainless steel wheel and track. It has anti-rust technology which makes it durable and low in maintenance even in the coastal areas. And because its lightweight, both young and old ones can open and close through its pulling power of 2 to 4 kgs.",
+			"detailSpecification":"Types: Single Sliding Gate, Double Sliding Gate|Features: Square pipe design provides strength and durability,Durable stainless-steel wheel and track enable light and smooth gliding.,Wheel stopper ensures stop and hold when gate is closed.,Wheel stopper ensures stop and hold when gate is closed.,Panel guide to hold both panels when gliding for safety (for double panel type).",
+			"productImageList":[
+				{
+					"id":3,
+					"img":"/Shop-Tostem/SlidingGate/Gate03.jpg",
+					"title":"Square pipe design provides strength and durability"
+				},{
+					"id":4,
+					"img":"/Shop-Tostem/SlidingGate/Gate04.jpg",
+					"title":"Durable stainless-steel wheel and track enable light and smooth gliding."
+				},{
+					"id":5,
+					"img":"/Shop-Tostem/SlidingGate/Gate05.jpg",
+					"title":"Wheel stopper ensures stop and hold when gate is closed."
+				},{
+					"id":6,
+					"img":"/Shop-Tostem/SlidingGate/Gate06.jpg",
+					"title":"Panel guide for safety to hold panel when gliding (for single panel type)."
+				},{
+					"id":7,
+					"img":"/Shop-Tostem/SlidingGate/Gate07.jpg",
+					"title":"Panel guide to hold both panels when gliding for safety (for double panel type)."
+				},{
+					"id":8,
+					"img":"/Shop-Tostem/SlidingGate/Gate08.jpg",
+					"title":"Panel guide to hold both panels when gliding for safety (for double panel type)."
+				}]
+		},{
+			"detailID":3,
+			"detailName":"Swing Gate",
+			"header":"/Tostem/fence-gate.jpg",
+			"tags":"Exterior,Gate,swing",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/FENCE-GATE.pdf",
+			"footerImage":"/Shop-Tostem/SwingGate/footer1.png",
+			"performanceImg":"/Shop-Tostem/SwingGate/Performance.png",
+			"video":"https://www.dropbox.com/s/p307wx9n6se5hpr/FENCE%20%26%20GATE.mp4",
+			"img":"/Shop-Tostem/SwingGate/Feature_1.jpg",
+			"detailDescription":"FENCE AND GATE has square pipe design which hinders sight from a certain angle and uses stainless steel wheel and track. It has anti-rust technology which makes it durable and low in maintenance even in the coastal areas. And because its lightweight, both young and old ones can open and close through its pulling power of 2 to 4 kgs.",
+			"detailSpecification":"Types: Single Swing Gate, Double Swing Gate|Features: Durable Hinges,Concealed dead rod (for double swing only)",
+			"productImageList":[
+				{
+					"id":3,
+					"img":"/Shop-Tostem/SwingGate/Gate03.jpg",
+					"title":"Durable Hinges"
+				},{
+					"id":4,
+					"img":"/Shop-Tostem/SwingGate/Gate04.jpg",
+					"title":"Concealed dead rod (for double swing only)"
+				}]
+		},{
+			"detailID":4,
+			"detailName":"Folding Gate",
+			"header":"/Tostem/fence-gate.jpg",
+			"tags":"Exterior,Gate,folding,fold",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/FENCE-GATE.pdf",
+			"video":"https://www.dropbox.com/s/p307wx9n6se5hpr/FENCE%20%26%20GATE.mp4",
+			"img":"/Shop-Tostem/FoldingGate/Feature_1.jpg",
+			"footerImage":"/Shop-Tostem/FoldingGate/footer1.png",
+			"performanceImg":"/Shop-Tostem/FoldingGate/Performance.png",
+			"detailDescription":"FENCE AND GATE has square pipe design which hinders sight from a certain angle and uses stainless steel wheel and track. It has anti-rust technology which makes it durable and low in maintenance even in the coastal areas. And because its lightweight, both young and old ones can open and close through its pulling power of 2 to 4 kgs.",
+			"detailSpecification":"Types: Folding Gate (4 Panels), Folding Gate (6 Panels)|Features: Durable Hinges,Rollers,Dead rod|Patterns:Horizontal,Vertical",
+			"productImageList":[
+				{
+					"id":3,
+					"img":"/Shop-Tostem/FoldingGate/Gate03.jpg",
+					"title":"Durable Hinges"
+				},{
+					"id":4,
+					"img":"/Shop-Tostem/FoldingGate/Gate04.jpg",
+					"title":"Rollers"
+				},
+				{
+					"id":5,
+					"img":"/Shop-Tostem/FoldingGate/Gate05.jpg",
+					"title":"Dead rod"
+				}]
+		},{
+			"detailID":1,
+			"detailName":"Fence",
+			"header":"/Tostem/fence-gate.jpg",
+			"tags":"Exterior,fence",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/FENCE-GATE.pdf",
+			"video":"https://www.dropbox.com/s/p307wx9n6se5hpr/FENCE%20%26%20GATE.mp4",
+			"img":"/Shop-Tostem/Fence/Feature_1.jpg",
+			"footerImage":"/Shop-Tostem/Fence/footer1.png",
+			"performanceImg":"/Shop-Tostem/Fence/Performance.png",
+			"detailDescription":"FENCE AND GATE has square pipe design which hinders sight from a certain angle and uses stainless steel wheel and track. It has anti-rust technology which makes it durable and low in maintenance even in the coastal areas. And because its lightweight, both young and old ones can open and close through its pulling power of 2 to 4 kgs.",
+			"detailSpecification":"Features: Minimalist slim design yet sturdy. Wall anchor can be adjusted up to 7.5 mm., Straight and corner type fence jointer available. Adjustable from 90–180 degrees.,Fence post with concrete surface mount (with cover). Set-in-concrete type also available. ",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Fence/Fence01.jpg",
+					"title":"Minimalist slim design yet sturdy. Wall anchor can be adjusted up to 7.5 mm."
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Fence/Fence02.jpg",
+					"title":"Straight and corner type fence jointer available. Adjustable from 90–180 degrees."
+				},
+				{
+					"id":3,
+					"img":"/Shop-Tostem/Fence/Fence03.jpg",
+					"title":"Fence post with concrete surface mount (with cover). Set-in-concrete type also available.."
+				}]
+		}
+		
+
+
+	]
+}
+
+]

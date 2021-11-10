@@ -1,0 +1,245 @@
+,
+{
+	id5,
+	productNameEZ SeriesBars,
+	imageShop-TostemBars.jpg,
+	productDescriptionSHOPFRONTSEZ SERIES is TOSTEM’s standard series for curtain wall stick type system which can be used for low to mid rise buildings. It has a flat design with glass set at front and hidden drain holes for the drainage system.,
+	productList[
+		{
+			detailID1,
+			detailNameE'Z Series,
+			isPdftrue,
+			isImagefalse,
+			PdfFileez_series_brochure.pdf,
+			video,
+			imgShop-TostemEZFeature_1.jpg,
+			detailDescriptionSHOPFRONTSEZ SERIES is TOSTEM’s standard series for curtain wall stick type system which can be used for low to mid rise buildings. It has a flat design with glass set at front and hidden drain holes for the drainage system.,
+			detailSpecificationLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,
+			productImageList[{
+					id1,
+					imgShop-TostemProduct_1.jpg
+				},
+				{
+					id2,
+					imgShop-TostemProduct_2.jpg
+				},
+				{
+					id1,
+					imgShop-TostemProduct_3.jpg
+				}]
+		},
+		{
+			detailID2,
+			detailNameBars,
+			isPdftrue,
+			isImagefalse,
+			PdfFileBARS_PDF.pdf,
+			video,
+			imgShop-TostemBarsFeature_1.jpg,
+			detailDescriptionSHOPFRONTSEZ SERIES is TOSTEM’s standard series for curtain wall stick type system which can be used for low to mid rise buildings. It has a flat design with glass set at front and hidden drain holes for the drainage system.,
+			detailSpecificationLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.,
+			productImageList[{
+					id1,
+					imgShop-TostemProduct_1.jpg
+				},
+				{
+					id2,
+					imgShop-TostemProduct_2.jpg
+				},
+				{
+					id1,
+					imgShop-TostemProduct_3.jpg
+				}]
+		}
+	]
+}
+
+
+
+,
+            {
+                "id": 3.5,
+                "title": "EZ Series/Bars",
+                "link": "/product-details?link=5",
+                "haslink":true,
+                "subMenu": [
+                    {
+                        "id": 3.20,
+                        "title": "E'Z Series",
+                        "link": "/product-single-detail?categoryID=5&productID=1"
+                    },
+                     {
+                        "id": 3.21,
+                        "title": "Bars",
+                        "link": "/product-single-detail?categoryID=5&productID=2"
+                    }
+                ]
+            }
+
+
+,{
+	"data":"01-01-1949",
+	"title":"1949",
+	"imageLink":"Timeline/1949.jpg",
+	"writeUp":"Nihon Tategu Kogyo Co.Ltd. was established."
+},{
+	"data":"01-01-1971",
+	"title":"1971",
+	"imageLink":"Timeline/1971.jpg",
+	"writeUp":"Toyo Sash CO. Ltd"
+},
+{
+	"data":"01-01-1992",
+	"title":"1992",
+	"imageLink":"Timeline/1992.jpg",
+	"writeUp":"Renamed TOSTEM corporation"
+},
+
+
+     <Modal
+          isOpen={mOpen}
+          onAfterOpen={afterOpenModal}
+          onRequestClose={closeModal}
+        
+          className="servicecontent"
+          overlayClassName = "serviceoverlay"
+        >
+         <div className = "row">
+          <div className = "col-md-12"  style={{textAlign:'right'}}>
+
+            <a onClick={closeModal} style={{cursor:'pointer'}}><p>X</p></a>
+            </div>
+          </div>
+          <div className = "row">
+      
+            <div className = "col-md-12" style={{textAlign:'center'}}>
+              <h3 >{mTitle}</h3>
+            </div>
+             
+          </div>
+            <div className = "row">
+                 <div className = "col-md-12"> 
+
+                   <div  className="App">
+                    {
+                      dataServices
+                      .filter(r=>r.id == sMID)
+                      .map((e)=>{
+                        return( <AllPagesPDFViewer pdf={require("../../../assets/pdf/services" +
+                      e.PdfFile)} />)
+                        
+                      })
+                    }
+                  
+                     
+                 
+
+                   
+                  </div>
+                  {/*<ServicesInfo serviceID ={sMID} animate ={false}/>*/}
+                </div>
+              
+            </div>
+       
+         
+        </Modal>
+,
+		{
+			"detailID":5,
+			"detailName":"Carport",
+			"isPdf":false,
+			"isImage":false,
+			"PdfFile":"/CARPORT.pdf",
+			"video":"",
+			"img":"/Shop-Tostem/Carport/Feature_1.jpg",
+			"detailDescription":"CARPORT provides protection to cars and properties by preventing direct exposure to extreme weather conditions and it comes with a standard rain gutter.",
+			"detailSpecification":"Size(Single): 2.2m (Height), 2.4m (Width), 5.0m (Length)|Size(Double): 2.2m (Height), 4.8m (Width), 5.0m (Length)|Roof Type: Flat type| Ceiling Material: Standard Polycarbonate| Pressure resistance: 34 m/s| Color: Natural Silver only",
+			"productImageList":[{
+					"id":1,
+					"img":"/Shop-Tostem/Carport/Carport01.jpg",
+					"title":"TOSTEM NESCA Light aluminum carport Japanese Industrial Standard (JIS) certified."
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/Carport/Carport02.jpg",
+					"title":"TOSTEM NESCA Light aluminum carport Japanese Industrial Standard (JIS) certified."
+				}]
+		}
+
+		,{
+					"id":4,
+					"img":"/Shop-Tostem/Fence/Fence04.jpg",
+					"title":"Natural Black"
+				},{
+					"id":5,
+					"img":"/Shop-Tostem/Fence/Fence05.jpg",
+					"title":"Autumn Brown"
+				},{
+					"id":6,
+					"img":"/Shop-Tostem/Fence/Fence06.jpg",
+					"title":"Shine grey"
+				},{
+					"id":7,
+					"img":"/Shop-Tostem/Fence/Fence07.jpg",
+					"title":"Natural Silver"
+				}
+				,
+				{
+					"id":6,
+					"img":"/Shop-Tostem/FoldingGate/Gate06.jpg",
+					"title":"Natural Black"
+				},{
+					"id":7,
+					"img":"/Shop-Tostem/FoldingGate/Gate07.jpg",
+					"title":"Autumn Brown"
+				},
+				{
+					"id":8,
+					"img":"/Shop-Tostem/FoldingGate/Gate08.jpg",
+					"title":"Shine grey"
+				},
+				{
+					"id":9,
+					"img":"/Shop-Tostem/FoldingGate/Gate09.jpg",
+					"title":"Natural Silver"
+				},
+				,{
+					"id":10,
+					"img":"/Shop-Tostem/FoldingGate/Gate10.jpg",
+					"title":"Horizontal"
+				},
+				{
+					"id":11,
+					"img":"/Shop-Tostem/FoldingGate/Gate11.jpg",
+					"title":"Vertical"
+				}
+				{
+					"id":1,
+					"img":"/Shop-Tostem/SlidingGate/Gate01.jpg",
+					"title":"Single Sliding Gate"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/SlidingGate/Gate02.jpg",
+					"title":"Double Sliding Gate"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/SwingGate/Gate01.jpg",
+					"title":"Single Swing Gate"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/SwingGate/Gate02.jpg",
+					"title":"Double Swing Gate"
+				},
+				{
+					"id":1,
+					"img":"/Shop-Tostem/FoldingGate/Gate01.jpg",
+					"title":"Folding Gate (4 Panels)"
+				},
+				{
+					"id":2,
+					"img":"/Shop-Tostem/FoldingGate/Gate02.jpg",
+					"title":"Folding Gate (6 Panels)"
+				},

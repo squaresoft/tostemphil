@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type":"RESIDENTIAL",
+    "title": " P7/WE70 SERIES",
+    "tagline": "COLOR: SHINE GREY",
+    "image": "Carousel/Image1.jpg",
+    "buttons": [
+      
+    ]
+  },
+  {
+    "id": 2,
+    "type":"RESIDENTIAL",
+    "title": "P7 SERIES",
+    "tagline": "COLOR: AUTUMN BROWN",
+    "image": "Carousel/Image2.jpg",
+    "buttons": []
+  }
+  ,
+  {
+    "id": 3,
+    "type":"RESIDENTIAL",
+    "title": " GRANTS SERIES",
+    "tagline": "COLOR: AUTUMN BROWN",
+    "image": "Carousel/Image3.jpg",
+    "buttons": []
+  }
+   ,
+  {
+    "id": 4,
+    "type":"RESIDENTIAL",
+    "title": "WE70/WE PLUS SERIES",
+    "tagline": "COLOR: AUTUMN BROWN",
+    "image": "Carousel/Image4.jpg",
+    "buttons": []
+  }
+   ,
+  {
+    "id":5,
+    "type":"HOTEL",
+    "title": " GRANTS SERIES",
+    "tagline": "COLOR: AUTUMN BROWN",
+    "image": "Carousel/Image5.jpg",
+    "buttons": []
+  }
+    ,
+  {
+    "id":6,
+    "type":"RESIDENTIAL",
+    "title": " WE70 SERIES",
+    "tagline": "COLOR: NATURAL WHITE",
+    "image": "Carousel/Image6.jpg",
+    "buttons": []
+  },
+   {
+    "id":7,
+    "type":"RESORT",
+    "title": "P7 SERIES",
+    "tagline": "COLOR: NATURAL BLACK",
+    "image": "Carousel/Image7.jpg",
+    "buttons": []
+  },
+   {
+    "id":8,
+    "type":"HIGH RESIDENTIAL",
+    "title": "WE PLUS SERIES",
+    "tagline": "COLOR: NATURAL BLACK",
+    "image": "Carousel/Image8.jpg",
+    "buttons": []
+  }
+]
