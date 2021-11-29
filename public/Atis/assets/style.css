@@ -170,11 +170,17 @@ a{ text-decoration: none; }
 }
 
 @media (max-width: 1400px){
-  #main .container{ padding:50px 40px; }
+  #top{ padding:15px 0; }
+  #main .container{ padding:35px 40px 45px; }
+  #main  #content-box{ z-index: 10; position: relative; }
+  #main #logo img{ height:65px; }
   #main .box-desc{ padding-right:40px; }
   #main .box-desc h1{ font-size:20px; margin-top:15px; }
   #main .box-desc .line{ margin-top:15px; margin-bottom:15px; }
   #main .box-desc h3, #main .box-desc p{ line-height:1.6; }
+  #nav{ z-index: 10; position:relative; padding:20px 0 10px; }
+  #nav .line{ margin-bottom:15px; }
+  #nav a{ font-size:22px; }
 }
 
 @media (max-width: 1200px){
