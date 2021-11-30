@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 // Home pages
 
 import Construction from "./pages/home/Construction";
-
+import Construction2 from "./pages/home/Construction2";
 
 //About Us
 import AboutUs from "./pages/about/AboutUs";
@@ -85,8 +85,9 @@ function App() {
     <Router  history={history} basename={"/"}>
       <ScrollToTop>
         <Switch>
-          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Construction} />
-       
+          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Construction2} />
+        <Route exact path={`${process.env.PUBLIC_URL}/home`} component={Construction} />
+
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/construction`}
