@@ -85,7 +85,7 @@ function App() {
     <Router  history={history} basename={"/"}>
       <ScrollToTop>
         <Switch>
-          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Construction} />
+          <Route exact path={`${process.env.PUBLIC_URL}/`} component={Construction2} />
         <Route exact path={`${process.env.PUBLIC_URL}/home`} component={Construction} />
 
           <Route
