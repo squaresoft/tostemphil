@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Doors and Windows",
+    "image": "Tostem-Highlights/Feature_6.jpg",
+    "details":"All products of TOSTEM are developed and designed, manufactured and assembled under an integrated production process with strict TOSTEM quality control. The greatest benefit of TOSTEM’S PRE-ENGINEERED SYSTEM is the ability to build windows with consistent quality. No special tools will be needed for ASSEMBLY and INSTALLATION. Anyone can assemble the product with the same level of quality with a screw driver. Lixil is the only manufacturer that uses state-of-the-art technology TEXGUARD in aluminum surface treatment. It’s Lixil’s original technology that provides an outstanding weatherproof coating on aluminum extrusions using electrodeposition process. It offers greater color and gloss retention, stronger surface integrity which protects against scratches and corrosion and ease of cleaning due to its anti-dust technology.",
+    "link":"window-doors"
+  },
+  {
+    "id": 2,
+    "title": "Exterior",
+    "image": "Tostem-Highlights/Feature_7.jpg",
+    "details":"EXTERIOR PRODUCTS is a complete set of housing products which are designed and developed to compliment TOSTEM’s Aluminum doors and windows. We have GIESTA Entrance Doors, Ventilation Doors, Fence, Gate and Carports.",
+    "link":"tostem-doors"
+  },
+  {
+    "id": 3,
+    "title": "GIESTA Entrance Doors",
+    "image": "Tostem-Highlights/Feature_4.jpg",
+    "details":"GIESTA Entrance Doors are high quality wood pattern or metallic finish doors with wrapped steel panels. The insulating structure inside are designed and built to fight against extreme weather conditions and termites.",
+    "link":"exterior"
+  } ,
+   {
+    "id": 4,
+    "title": "Ventilation Systems",
+    "image": "Tostem-Highlights/Feature_3.jpg",
+    "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "link":"exterior"
+  },
+   {
+    "id": 5,
+    "title": "Shop Fronts",
+    "image": "Tostem-Highlights/Feature_5.jpg",
+    "details":"SHOPFRONTS/EZ SERIES is TOSTEM’s standard series for curtain wall stick type system which can be used for low to mid rise buildings. It has a flat design with glass set at front and hidden drain holes for the drainage system.",
+    "link":"exterior"
+  },
+   {
+    "id": 6,
+    "title": "Aluminum Extrusion Bars",
+    "image": "Tostem-Highlights/Feature_3.jpg",
+    "details":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "link":"exterior"
+  }
+ 
+]

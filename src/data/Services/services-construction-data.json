@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "icon": "/IconHomepage/logo1.png",
+    "title": "TOTAL HOUSING SOLUTION",
+    "PdfFile":"/WHYTOSTEM-total housing .pdf",
+    "link":"TotalHousing",
+    "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/PRE-ENGINEERED-SYTEM.jpg"
+                            }
+                        ]
+  },
+  {
+    "id": 2,
+    "icon": "/IconHomepage/logo2.png",
+    "title": "PRE-ENGINEERED SYSTEM",
+     "PdfFile":"/WHYTOSTEM-Preengineered.pdf",
+     "link":"Preengineered",
+    "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/Grants Ventilation.jpg"
+                            },
+                            {
+                                "ImageID":2,
+                                "link":"Highlights/Ventilation Slot.jpg"
+                            }
+
+]
+  },
+  {
+    "id": 3,
+    "icon": "/IconHomepage/logo4.png",
+    "title": "TOSTEM SURFACE AND COLOR PROTECTION",
+     "PdfFile":"/WHYTOSTEM-tostemsurfacecolor.pdf",
+     "link":"SurfaceColor",
+    "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/PRE-ENGINEERED-SYTEM.jpg"
+                            }
+                        ]
+  }
+  ,
+  {
+    "id": 4,
+    "icon": "/IconHomepage/logo3.png",
+    "title": "QUALITY ASSURANCE",
+     "PdfFile":"/WHYTOSTEM-qualityassurance.pdf",
+     "link":"QualityAssurance",
+   "images":[
+                            {
+                                "ImageID":1,
+                                "link":"Highlights/PRE-ENGINEERED-SYTEM.jpg"
+                            }
+                        ]
+  }
+]

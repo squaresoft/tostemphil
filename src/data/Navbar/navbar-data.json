@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "link": "/",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "isDropdown":false,
+        "megaMenu": true,
+        "haslink":true,
+        "subMenu": []
+    },
+    {
+        "id": 2,
+        "title": "About us",
+        "link": "/about-us",
+        "isDropdown":false,
+        "megaMenu": false,
+        "haslink":true,
+         "subMenu": [
+        
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Tostem Product",
+        "link": "/Products",
+        "isDropdown":true,
+        "haslink":true,
+        "megaMenu": false,
+        "subMenu": [
+            {
+                "id": 3.1,
+                "title": "Windows and Doors",
+                "link": "/product-details?link=1",
+                "haslink":true,
+                "subMenu": [
+                    {
+                        "id": 3.11,
+                        "title": "Grants",
+                        "link": "/product-single-detail?categoryID=1&productID=1"
+                    },
+                    {
+                        "id": 3.12,
+                        "title": "We Plus",
+                        "link": "/product-single-detail?categoryID=1&productID=2"
+                    },
+                    {
+                        "id": 3.13,
+                        "title": "P7",
+                        "link": "/product-single-detail?categoryID=1&productID=3"
+                    },
+                    {
+                        "id": 3.14,
+                        "title": "We 70 & We 40",
+                        "link": "/product-single-detail?categoryID=1&productID=4"
+                    },
+                    {
+                        "id": 3.15,
+                        "title": "Folding Door",
+                        "link": "/product-single-detail?categoryID=1&productID=5"
+                    }
+                    ,
+                    {
+                        "id": 3.16,
+                        "title": "Interior Series",
+                        "link": "/product-single-detail?categoryID=1&productID=6"
+                    }
+                ]
+            },
+            {
+                "id": 3.2,
+                "title": "Entrance Doors",
+                "haslink":true,
+                "link": "/product-details?link=2",
+                "subMenu": [
+                    {
+                        "id": 3.26,
+                        "title": "Minimalistic",
+                        "link": "/product-single-detail?categoryID=2&productID=1"
+                    },
+                     {
+                        "id": 3.27,
+                        "title": "Modern",
+                        "link": "/product-single-detail?categoryID=2&productID=2"
+                    },
+                     {
+                        "id": 3.28,
+                        "title": "With Glass",
+                        "link": "/product-single-detail?categoryID=2&productID=3"
+                    }
+                ]
+            },{
+                "id": 3.3,
+                "title": "Airflow Systems",
+                "haslink":true,
+                "link": "/product-details?link=3",
+                "subMenu": [
+                    {
+                        "id": 3.23,
+                        "title": "Ventilation Door",
+                        "link": "/product-single-detail?categoryID=3&productID=1"
+                    },
+                     {
+                        "id": 3.24,
+                        "title": "Ventilation Slot",
+                        "link": "/product-single-detail?categoryID=3&productID=2"
+                    },
+                     {
+                        "id": 3.25,
+                        "title": "Glass Louver",
+                        "link": "/product-single-detail?categoryID=3&productID=3"
+                    }
+                ]
+            },
+            {
+                "id": 3.4,
+                "title": "Exterior",
+                "link": "/product-details?link=4",
+                "haslink":true,
+                "subMenu": [
+                    {
+                        "id": 3.17,
+                        "title": "Fence and Gate",
+                        "link": "/product-single-detail?categoryID=4&productID=1"
+                    },
+                    {
+                        "id": 3.18,
+                        "title": "Carport",
+                        "link": "/product-single-detail?categoryID=4&productID=2"
+                    }
+                ]
+            }
+        ]  
+    },
+    {
+        "id": 4,
+        "title": "Gallery",
+        "link": "/Gallery",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "isDropdown":false,
+        "haslink":true,
+        "megaMenu": false,
+        "subMenu": []
+    },
+   
+    {
+         "id": 5,
+        "title": "Dealers",
+        "link": "/other",
+        "isDropdown":true,
+        "megaMenu": false,
+        "haslink":false,
+        "subMenu": [
+            
+         
+         {
+                "id": 4.2,
+                "title": "Dealer Locator",
+                "link": "/Dealer-Locator"
+             
+            },
+         {
+                "id": 4.3,
+                "externalLink":false,
+                "title": "Dealership",
+                "link": "/Dealership"
+             
+            }
+        ]
+    },{
+        "id": 6,
+        "isExternal":true,
+        "title": "Giesta Design Simulation",
+        "link": "https://tostemphil-simulation.netlify.app/",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "isDropdown":false,
+        "megaMenu": true,
+        "haslink":true,
+        "subMenu": []
+    }
+  ,{
+        "id": 7,
+          "isExternal":false,
+        "title": "Tostem Virtual Tour",
+        "link": "/tour/vtour.html",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "isDropdown":false,
+        "megaMenu": true,
+        "haslink":true,
+        "subMenu": []
+    }
+  ,{
+        "id": 8,
+        "title": "Contact Us",
+        "link": "/Contact-us",
+        "colsTitle": "Home layout",
+        "itemsPerCol": 5,
+        "isDropdown":false,
+        "megaMenu": true,
+        "haslink":true,
+        "subMenu": []
+    }
+  
+   
+   
+  
+]
