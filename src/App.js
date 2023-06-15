@@ -4,7 +4,11 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 // Home pages
 
 import Construction from "./pages/home/Construction";
+<<<<<<< HEAD
 
+=======
+import Construction2 from "./pages/home/Construction2";
+>>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
 
 //About Us
 import AboutUs from "./pages/about/AboutUs";
@@ -86,7 +90,12 @@ function App() {
       <ScrollToTop>
         <Switch>
           <Route exact path={`${process.env.PUBLIC_URL}/`} component={Construction} />
+<<<<<<< HEAD
        
+=======
+        <Route exact path={`${process.env.PUBLIC_URL}/home`} component={Construction} />
+
+>>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/construction`}
