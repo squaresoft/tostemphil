@@ -1,6 +1,5 @@
 [
   {
-<<<<<<< HEAD
     "id":1,
     "type":"",
     "title": "",
@@ -10,9 +9,6 @@
   },
   {
     "id": 2,
-=======
-    "id": 1,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESIDENTIAL",
     "title": " P7/WE70 SERIES",
     "tagline": "COLOR: SHINE GREY",
@@ -22,11 +18,7 @@
     ]
   },
   {
-<<<<<<< HEAD
     "id": 3,
-=======
-    "id": 2,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESIDENTIAL",
     "title": "P7 SERIES",
     "tagline": "COLOR: AUTUMN BROWN",
@@ -35,11 +27,7 @@
   }
   ,
   {
-<<<<<<< HEAD
     "id": 4,
-=======
-    "id": 3,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESIDENTIAL",
     "title": " GRANTS SERIES",
     "tagline": "COLOR: AUTUMN BROWN",
@@ -48,11 +36,7 @@
   }
    ,
   {
-<<<<<<< HEAD
     "id": 5,
-=======
-    "id": 4,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESIDENTIAL",
     "title": "WE70/WE PLUS SERIES",
     "tagline": "COLOR: AUTUMN BROWN",
@@ -61,11 +45,7 @@
   }
    ,
   {
-<<<<<<< HEAD
     "id":6,
-=======
-    "id":5,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"HOTEL",
     "title": " GRANTS SERIES",
     "tagline": "COLOR: AUTUMN BROWN",
@@ -74,11 +54,7 @@
   }
     ,
   {
-<<<<<<< HEAD
     "id":7,
-=======
-    "id":6,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESIDENTIAL",
     "title": " WE70 SERIES",
     "tagline": "COLOR: NATURAL WHITE",
@@ -86,11 +62,7 @@
     "buttons": []
   },
    {
-<<<<<<< HEAD
     "id":8,
-=======
-    "id":7,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"RESORT",
     "title": "P7 SERIES",
     "tagline": "COLOR: NATURAL BLACK",
@@ -98,19 +70,11 @@
     "buttons": []
   },
    {
-<<<<<<< HEAD
     "id":9,
-=======
-    "id":8,
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
     "type":"HIGH RESIDENTIAL",
     "title": "WE PLUS SERIES",
     "tagline": "COLOR: NATURAL BLACK",
     "image": "Carousel/Image8.jpg",
     "buttons": []
   }
-<<<<<<< HEAD
-
-=======
->>>>>>> 0c3ecc1969cff6e5e8fdc9fb262854712134e38d
 ]
